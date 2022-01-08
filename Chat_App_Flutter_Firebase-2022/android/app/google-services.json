@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "768496697911",
+    "project_id": "connect-new-2022",
+    "storage_bucket": "connect-new-2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768496697911:android:3fc292bc0ba4a50e9c75b2",
+        "android_client_info": {
+          "package_name": "com.ShreshthaAggarwal.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768496697911-roqdsjnfi0qrc52jkhfljrc61orn9ah8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZj16UgpawvYxFD2Z3cwwNVpZMHmMpwkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768496697911-roqdsjnfi0qrc52jkhfljrc61orn9ah8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
