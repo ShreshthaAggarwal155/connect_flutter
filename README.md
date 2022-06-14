@@ -1,5 +1,5 @@
 # connect_flutter
-#Shreshtha says connect app is amazing
+Complete code of Connect app using flutter.
 
 
  
